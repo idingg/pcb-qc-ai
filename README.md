@@ -3,7 +3,7 @@
 이 프로젝트는 라즈베리 파이 피코 보드의 품질 검사를 위한 자동화된 시스템을 제시합니다. Superb AI의 YOLOv8을 통한 객체 탐지 API를 활용하여 실제 보드 이미지에서 인식한 부품들의 위치들(1)과, 인식한 부품 중 두개의 위치로 계산한 검사할 모든 부품의 위치들(2)을 비교하여 정상 보드인지 판단합니다.
 
 ## 주요 기능
-### 1. Vision AI 기반 부품 탐지(autolabel.py)
+### 1. Vision AI 기반 부품 탐지(conveyor.py)
 - Superb AI API를 통해 실시간으로 카메라 이미지에서 객체를 탐지합니다.
 - GPU 없이 네트워크를 통해 이미지 상 부품의 위치 추론이 가능합니다.
 - 6가지 부품 인식: RASPBERRY PICO, USB, CHIPSET, OSCILLATOR, BOOTSEL, HOLE
