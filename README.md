@@ -25,9 +25,12 @@
 정상적인 보드는 초록색 상자가 빨간색 상자 위에 거의 완벽하게 정렬된 모습으로 나타납니다. 만약 두 상자 간의 정렬이 크게 벗어난다면 잠재적인 결함을 의미합니다.
 
 ## 사용 기술
-- 언어: Python
-- 수학 연산: NumPy
-- Computer Vision: OpenCV, Superb AI Vision API
+- 프로그래밍 언어
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- 수학 연산
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+- Computer Vision
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">, Superb AI Vision API
 
 ## 활용 분야
 - 제조업 품질 관리: 전자 보드 생산라인에서 실시간 검증
