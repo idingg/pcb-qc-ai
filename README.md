@@ -27,7 +27,7 @@
 ## 사용 기술
 - 프로그래밍 언어: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 - 수학 연산: <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-- Computer Vision: <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">, Superb AI Vision API
+- Computer Vision: <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"><img src="https://img.shields.io/badge/SuperbAI-ffffff?style=for-the-badge&logo=&logoColor=white">
 
 ## 활용 분야
 - 제조업 품질 관리: 전자 보드 생산라인에서 실시간 검증
